@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20151110\source\STM32_Flash_WR.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20151110\source\board.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20151110\source\ir.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20160914\source\board.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20160914\source\ir.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20161112\source\board.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE - 20161112\source\ir.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE\source\board.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE\source\ir.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Work\Projects\ENOCEAN-IR\CODE\source\main.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
